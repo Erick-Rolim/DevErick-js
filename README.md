@@ -61,4 +61,3 @@
 
 <img src="https://raw.githubusercontent.com/Erick-Rolim/Erick-Rolim/output/snake.svg" alt="Snake animation" />
 
-###
