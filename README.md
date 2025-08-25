@@ -60,7 +60,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erick-Rolim&radius=10&theme=monokai&area=true&order=5&hide_border=false" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erick-Rolim&radius=10&theme=monokai&area=false&order=5&hide_border=false" height="350" alt="activity-graph graph"  />
 </div>
 
 ###
