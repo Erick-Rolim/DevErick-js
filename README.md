@@ -33,10 +33,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" alt="github logo"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJpazZvNDY3cGM4ZXBzem90bnhzMjBrcndteW51eGlmaHZ0bjYyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kKefeMw8rbMVq/giphy.gif"  />
 
