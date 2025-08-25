@@ -46,7 +46,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/erick-wellington-figueiró-rolim-58984b279" target="_blank">
+  <a href="www.linkedin.com/in/erick-wellington-figueiró-rolim-58984b279" target="www.linkedin.com/in/erick-wellington-figueiró-rolim-58984b279_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="erick_figueiro" target="_blank">
