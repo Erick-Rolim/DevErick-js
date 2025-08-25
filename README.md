@@ -14,6 +14,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="149" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJpazZvNDY3cGM4ZXBzem90bnhzMjBrcndteW51eGlmaHZ0bjYyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kKefeMw8rbMVq/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -35,12 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" alt="github logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJpazZvNDY3cGM4ZXBzem90bnhzMjBrcndteW51eGlmaHZ0bjYyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kKefeMw8rbMVq/giphy.gif"  />
 
 ###
 
